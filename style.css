@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: #000000;
+  font-family: 'Courier';
+  color: #FFFFFF;
+  
+  /* HACKER STEREOTYPE */
+/*   color: #00FF00; */
+  font-size: 3pt;
+  line-height: 2pt;
+  width: fit-content;
+}
+
+canvas {
+  display: block;
+}
